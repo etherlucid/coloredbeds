@@ -1,0 +1,25 @@
+# Build outputs & workspace
+/bin/
+/build/
+/target/
+/out/
+/minecraft/
+/conf/
+/jars/
+/libraries/
+/minecraft_server/
+options.cfg
+*.jar
+*.class
+
+# Texture pack template
+ColoredBeds_TexturePack_Template.zip
+
+# IDE & OS metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db

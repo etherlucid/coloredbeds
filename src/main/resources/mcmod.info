@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ColoredBeds",
+  "name": "Colored Beds Mod",
+  "description": "Backporting 16 colored beds to Minecraft 1.5.2!",
+  "version": "1.0",
+  "mcversion": "1.5.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["EtherLucid"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
